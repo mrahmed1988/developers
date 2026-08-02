@@ -11,4 +11,10 @@ Andrew B.
 Aaron M.
 Joshua B.
 Dustin S.
+<<<<<<< HEAD
 Ahmed I.
+=======
+Ahmed I.
+
+Resolve the conflicts
+>>>>>>> 2f92a3b5f670f185c5b8e0184338c51c5f7d5d85
