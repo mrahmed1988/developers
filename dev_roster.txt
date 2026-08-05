@@ -12,5 +12,3 @@ Aaron M.
 Joshua B.
 Dustin S.
 Ahmed I.
-
-Resolved merge conflict in roster file
